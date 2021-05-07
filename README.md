@@ -10,4 +10,4 @@ You'll need 3 files in the same folder as `main.py` - these are `options.json`, 
 
 `google-auth.json` is a Service Account authentication file from [Google Cloud](https://cloud.google.com/iam/docs/creating-managing-service-account-keys). You'll need to share your Monzo Transactions Google Sheet with the Service Account.
 
-[**@juanpynr/google-spreadsheet-reader**](https://github.com/juampynr/google-spreadsheet-reader) has a great guide as to how to set this up!
+[**@juampynr/google-spreadsheet-reader**](https://github.com/juampynr/google-spreadsheet-reader) has a great guide as to how to set this up!

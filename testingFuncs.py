@@ -1,3 +1,5 @@
+# This file is a dumping ground for functions etc I wrote that were good but ultimately unnecessary.
+
 def potBalanceCalc(potName, amount):
     try:
         potBalances[potName] += -amount
